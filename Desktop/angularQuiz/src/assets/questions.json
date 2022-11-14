@@ -1,0 +1,61 @@
+{
+    "question":[
+        {
+            "questionText":"What is your name?",
+            "options":[
+                {
+                    "text":"nafosat",
+                    "correct":true
+                },
+                {
+                    "text":"Adolat"
+                },
+                {
+                    "text":"Mahliyo"
+                },
+                {
+                    "text":"Xurshida"
+                }
+            ]
+
+        },
+        {
+            "questionText":"What is your job?",
+            "options":[
+                {
+                    "text":"Python Developer",
+                    "correct":true
+                },
+                {
+                    "text":"Java Developer"
+                },
+                {
+                    "text":"Angular Developer"
+                },
+                {
+                    "text":"JavaScript Develope"
+                }
+            ]
+
+        },
+        {
+            "questionText":"Where are you from?",
+            "options":[
+                {
+                    "text":"Uzbekistanr",
+                    "correct":true
+                },
+                {
+                    "text":"Russian"
+                },
+                {
+                    "text":"Englang"
+                },
+                {
+                    "text":"Turkish"
+                }
+            ]
+
+        }
+    ]
+}

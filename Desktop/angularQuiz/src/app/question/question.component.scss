@@ -1,0 +1,8 @@
+
+li{
+    cursor: pointer;
+    transition: background .5s ease;
+    &:hover{
+        background:  hsl(115, 34%, 65%); ;
+    }
+}
